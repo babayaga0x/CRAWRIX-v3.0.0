@@ -159,19 +159,6 @@ const App: React.FC = () => {
           </div>
 
           <h2>{t.connectTitle}</h2>
-          <img
-            src="/img/qr.png"
-            alt="QR Code"
-            className="qr-image"
-            style={{
-              display: "block",
-              margin: "5px auto",
-              borderRadius: "10px",
-              width: "200px",
-              height: "auto",
-            }}
-          />
-
           <div className="social-icons">
             <a
               href="https://github.com/Martin13025"
