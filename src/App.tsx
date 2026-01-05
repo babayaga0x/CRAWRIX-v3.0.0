@@ -168,7 +168,7 @@ const App: React.FC = () => {
               <FaGithub /> Github
             </a>
             <a
-              href="https://t.me/M2rR4b4t"
+              href="https://t.me/Equil1brium"
               target="_blank"
               rel="noopener noreferrer"
             >
