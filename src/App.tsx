@@ -161,7 +161,7 @@ const App: React.FC = () => {
           <h2>{t.connectTitle}</h2>
           <div className="social-icons">
             <a
-              href="https://github.com/Martin13025"
+              href="https://github.com/babayaga0x"
               target="_blank"
               rel="noopener noreferrer"
             >
